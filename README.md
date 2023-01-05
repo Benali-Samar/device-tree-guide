@@ -3,6 +3,14 @@ A devicetree is a tree based data structure containing nodes, which describe the
 
 Both Linux and u-boot follow the same devicetree format to specify the hardware.
 
+
+
+## Additional resources:
+	* https://github.com/devicetree-org
+	*https://www.devicetree.org/specifications/
+	*https://buildmedia.readthedocs.org/media/pdf/devicetree-specification/latest/devicetree-specification.pdf
+	
+	
 ## Devicetree basics
 #### Format
 Here's the basic format of a device tree file.
