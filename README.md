@@ -6,7 +6,7 @@ Both Linux and u-boot follow the same devicetree format to specify the hardware.
 
 
 ## Additional resources:
-	* https://github.com/devicetree-org
+	*https://github.com/devicetree-org
 	*https://www.devicetree.org/specifications/
 	*https://buildmedia.readthedocs.org/media/pdf/devicetree-specification/latest/devicetree-specification.pdf
 	
